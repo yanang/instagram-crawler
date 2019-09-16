@@ -1,3 +1,3 @@
 # instagram-crawler
- spider public assigned instagram account \n
+ spider public assigned instagram account    
  see detail in example.ipynb
